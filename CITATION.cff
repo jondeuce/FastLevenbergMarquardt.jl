@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: FastLevenbergMarquardt.jl
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Christian
+    family-names: Kames
+    email: ckames@physics.ubc.ca
+repository-code: 'https://github.com/kamesy/FastLevenbergMarquardt.jl'
+url: 'https://kamesy.github.io/FastLevenbergMarquardt.jl/stable/'
+abstract: >-
+  Levenberg-Marquardt algorithm for solving nonlinear least
+  squares problems.
+keywords:
+  - levenberg-marquardt
+  - nonlinear-least-squares
+  - optimization
+  - julia
+license: MIT
