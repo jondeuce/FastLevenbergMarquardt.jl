@@ -8,8 +8,10 @@ authors:
   - given-names: Christian
     family-names: Kames
     email: ckames@physics.ubc.ca
+identifiers:
+  - type: url
+    value: 'https://github.com/kamesy/FastLevenbergMarquardt.jl'
 repository-code: 'https://github.com/kamesy/FastLevenbergMarquardt.jl'
-url: 'https://kamesy.github.io/FastLevenbergMarquardt.jl/stable/'
 abstract: >-
   Levenberg-Marquardt algorithm for solving nonlinear least
   squares problems.
@@ -19,3 +21,4 @@ keywords:
   - optimization
   - julia
 license: MIT
+date-released: '2023-10-08'
